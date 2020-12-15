@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+DataPipelines/tmg_pipeline/autoeksport/*.xlsx
+DataPipelines/tmg_pipeline/autoeksport/settings.py
+DataPipelines/tmg_pipeline/autoeksport/FILES/*.xlsx

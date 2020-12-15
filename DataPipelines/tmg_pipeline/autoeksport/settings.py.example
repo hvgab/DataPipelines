@@ -1,0 +1,24 @@
+
+tmg_servers = {
+    "inbound": {
+        "name":"inbound",
+        "host":"",
+        "dbname":"tmg_customer",
+        "username":"",
+        "password":""
+    },
+    "main": {
+        "name":"main",
+        "host":"",
+        "dbname":"tmg_customer",
+        "username":"",
+        "password":""
+    },
+    "telia": {
+        "name":"telia",
+        "host":"",
+        "dbname":"tmg_customer",
+        "username":"",
+        "password":""
+    },
+}
